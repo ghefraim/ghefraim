@@ -1,16 +1,19 @@
-### Hi there 👋
+# 👨‍💻 Efraim Marcus Ghiurau
 
-<!--
-**ghefraim/ghefraim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about exploring code and fostering growth.
 
-Here are some ideas to get you started:
+## 💻 Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- .NET
+- Python
+- HTML/CSS/JS
+- React
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/efraim-ghiurau/)
+
+## 🚀 Explore My Repositories
+
+[![GitHub Repositories](https://img.shields.io/badge/Explore-Repositories-brightgreen)](https://github.com/yourusername)
+
