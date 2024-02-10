@@ -1,4 +1,4 @@
-# 👨‍💻 Efraim Marcus Ghiurǎu
+# 🙎🏻‍♂️ Efraim Marcus Ghiurǎu
 
 Passionate about exploring code and fostering growth.
 
