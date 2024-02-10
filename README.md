@@ -23,6 +23,12 @@ A basic algortithm visualiser for sorting random arrays, written in Python
 
 <br>
 
+### [OOP in .NET Lab Project: POS](https://github.com/ghefraim/POS-demo-app-for-OOP)
+This is a Point-Of-Sale demo application made for college class OOP, written in C# with .NET.
+
+
+<br>
+
 ### [Java Lab Project: Customer and Address Entity Relationship](https://github.com/ghefraim/JavaProject-CustomersAndAddresses-API)
 Repository containing a Java lab project demonstrating CRUD operations with Customer and Address entities.
 
