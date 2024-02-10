@@ -16,5 +16,5 @@ Passionate about exploring code and fostering growth.
 
 ## 🚀 Explore my Repositories
 
-[![GitHub Repositories](https://img.shields.io/badge/Explore-Repositories-brightgreen)](https://github.com/ghefraim)
+[![GitHub Repositories](https://img.shields.io/badge/Explore-Repositories-brightgreen)](https://github.com/ghefraim?tab=repositories)
 
