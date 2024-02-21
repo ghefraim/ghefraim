@@ -1,6 +1,6 @@
 # 🙎🏻‍♂️ Efraim Marcus Ghiurǎu
 
-Passionate about exploring code and fostering growth.
+Passionate about exploring code and seeking growth.
 
 ## 💻 Technologies
 
