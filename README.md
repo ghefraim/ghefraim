@@ -1,13 +1,13 @@
 # 🙎🏻‍♂️ Efraim Marcus Ghiurǎu
 
-Passionate about exploring code and seeking growth.
+Passionate about building cool stuff!
 
 ## 💻 Technologies
 
 - .NET (C#)
+- NextJS
+- Tailwind + ShadcnUI
 - Python
-- HTML/CSS/JS
-- React
 
 ## 🌐 Connect with me
 
